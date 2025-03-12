@@ -16,4 +16,4 @@ Denna databas är skapad för att hantera en liten bokhandel. Den innehåller ta
 1. Öppna valfri MYSQL-klient.
 2. Kör `inlamning1.sql` för att skapa och fylla databasen.
 
-![ER-diagram](er-diagram.png)
+![ER-diagram](images/er-diagram.png)
